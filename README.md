@@ -1,6 +1,9 @@
 # Machine-learning
 Fundamentos machine learning:
 
+
+matematica
+
 entrada, manipulação e saida de dados com pandas
 
 integração com banco de dados (futuramente)
